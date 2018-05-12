@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
 description: 'Originally published as part of: The life of Saint Patrick, apostle
   of Ireland'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38682#The-Life-of-Saint-Columba-Abbot-and-Apostle-of-the-Northern-Picts
 gutenberg_issued: '2012-01-27'
 gutenberg_type: Text
 identifiers:
