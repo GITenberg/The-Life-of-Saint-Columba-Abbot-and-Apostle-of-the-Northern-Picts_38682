@@ -1,0 +1,30 @@
+_repo: The-Life-of-Saint-Columba-Abbot-and-Apostle-of-the-Northern-Picts_38682
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: 'Originally published as part of: The life of Saint Patrick, apostle
+  of Ireland'
+gutenberg_issued: '2012-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints, Celtic -- Biography'
+- !lcc 'BX'
+- !lcsh 'Columba, Saint, 521-597'
+title: The Life of Saint Columba, Abbot, and Apostle of the Northern Picts
+url: http://www.gutenberg.org/ebooks/38682
